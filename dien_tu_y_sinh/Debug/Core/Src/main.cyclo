@@ -1,0 +1,12 @@
+../Core/Src/main.c:116:6:UI_InitLayout	1
+../Core/Src/main.c:141:6:UI_UpdateBPM	2
+../Core/Src/main.c:152:6:UI_UpdateSpO2	2
+../Core/Src/main.c:163:6:UI_DrawWavePoint	9
+../Core/Src/main.c:197:6:UI_UpdateFingerStatus	3
+../Core/Src/main.c:211:6:UI_DrawHeartBeat	2
+../Core/Src/main.c:221:5:main	64
+../Core/Src/main.c:509:6:SystemClock_Config	3
+../Core/Src/main.c:548:13:MX_SPI1_Init	2
+../Core/Src/main.c:584:13:MX_DMA_Init	1
+../Core/Src/main.c:602:13:MX_GPIO_Init	1
+../Core/Src/main.c:637:6:Error_Handler	1

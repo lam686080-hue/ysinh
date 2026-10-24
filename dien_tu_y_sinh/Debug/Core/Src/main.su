@@ -1,0 +1,12 @@
+../Core/Src/main.c:116:6:UI_InitLayout	24	static
+../Core/Src/main.c:141:6:UI_UpdateBPM	56	static
+../Core/Src/main.c:152:6:UI_UpdateSpO2	56	static
+../Core/Src/main.c:163:6:UI_DrawWavePoint	40	static
+../Core/Src/main.c:197:6:UI_UpdateFingerStatus	32	static
+../Core/Src/main.c:211:6:UI_DrawHeartBeat	32	static
+../Core/Src/main.c:221:5:main	120	static
+../Core/Src/main.c:509:6:SystemClock_Config	72	static
+../Core/Src/main.c:548:13:MX_SPI1_Init	8	static
+../Core/Src/main.c:584:13:MX_DMA_Init	16	static
+../Core/Src/main.c:602:13:MX_GPIO_Init	32	static
+../Core/Src/main.c:637:6:Error_Handler	4	static,ignoring_inline_asm

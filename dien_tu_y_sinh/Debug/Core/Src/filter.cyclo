@@ -1,0 +1,8 @@
+../Core/Src/filter.c:12:6:HPF_Init	1
+../Core/Src/filter.c:21:7:HPF_Update	1
+../Core/Src/filter.c:35:6:LPF_Init	1
+../Core/Src/filter.c:44:7:LPF_Update	1
+../Core/Src/filter.c:57:6:BandPass_Init	1
+../Core/Src/filter.c:67:6:BandPass_Reset	1
+../Core/Src/filter.c:79:7:BandPass_IR	1
+../Core/Src/filter.c:89:7:BandPass_Red	1
